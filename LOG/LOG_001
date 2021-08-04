@@ -1,0 +1,19 @@
+### 8.4.2021
+- Started printing out and assembling BLC_CNC
+- Tested FM30_SPINDLE_MOUNT
+  - Added countsunk holes to mount to the extrusion
+  - Reduced the size of the FM30 mounting holes; they were large enough to be through holes, but need to be threaded
+- Tested Z_AXIS_DRIVE_PLATE
+  - Had to split plate in-two to fit on 3D printer
+  - Added countersunk holes to mount to the extrusion
+  - TODO: Increase the size of the coupling hole; the clamp screw collides with the profile
+  - TODO: Remove sensor mount
+  - TODO: Reduce the size of the cylinder hole; it is to large to thread into, and too deep to affix a nut on the backside
+- Tested Z_AXIS_NON_DRIVE_PLATE
+  - Added countersunk holes to mount to the extrusion
+- Tested DSG_RISER_PLATE
+  - Added 1mm Fillet around the corners of the profile
+- Tested XZ_GANTRY_PLATE
+  - Added countersunk holes to mount bearing blocks
+  - Added countersunk holes to mount DSG blocks
+  - Added 6mm fillet to corners of the profile
